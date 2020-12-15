@@ -1,0 +1,12 @@
+{
+  "name": "typescript_blockchain",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/WISUNGWON/typescript_blockchain.git",
+  "author": "WISUNGWON <tkrhkaos12@naver.com>",
+  "license": "MIT"
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
